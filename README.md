@@ -179,6 +179,8 @@ function createNavigationBarListElement() {
 
 ## References
 
+- Istvan, M. (2020, February 18). Finally, a CSS only solution to&nbsp;:hover on Touchscreens. Medium. Retrieved February 27, 2022, from https://medium.com/@mezoistvan/finally-a-css-only-solution-to-hover-on-touchscreens-c498af39c31c 
+
 - MDN. (n.d.). Array.prototype.foreach() - javascript: MDN. JavaScript | MDN. Retrieved February 20, 2022, from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
 
 - MDN. (n.d.). ClearTimeout() - web apis: MDN. Web APIs | MDN. Retrieved February 20, 2022, from https://developer.mozilla.org/en-US/docs/Web/API/clearTimeout
